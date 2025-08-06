@@ -5,7 +5,7 @@ NAME:SUPERSTORE SALES DATASET (`SUPERSTORE.CSV`)
 SOURCE: KAGGLE / PUBLIC DATASET
 COLUMNS USED: ORDER DATE, SALES, QUANTITY, STATE, REGION, CATEGORY, SUB-CATEGORY, SEGMENT
 
-## 🛠 TOOL USED
+## TOOL USED
 TABLEAU PUBLIC (FREE EDITION)
  VISUAL DASHBOARDS AND STORY CREATED USING TABLEAU'S DRAG-AND-DROP INTERFACE.
 
@@ -32,3 +32,9 @@ A 4-SLIDE TABLEAU STORY WAS CREATED, INCLUDING:
  FINAL SUMMARY SLIDE HIGHLIGHTING DATA-DRIVEN RECOMMENDATIONS
 
 ## SCREENSHOTS
+<img width="987" height="799" alt="Image" src="https://github.com/user-attachments/assets/866eadb4-c255-4cfd-9d01-98ff6837b303" />
+<img width="1017" height="772" alt="Image" src="https://github.com/user-attachments/assets/0422a2f8-f47a-4cba-8f02-5e18edbd989f" />
+<img width="1013" height="764" alt="Image" src="https://github.com/user-attachments/assets/8cc8b428-cda1-4ee6-acaf-c860adac6586" />
+<img width="973" height="750" alt="Image" src="https://github.com/user-attachments/assets/db91578b-00bc-4448-bb0c-a562a961474f" />
+<img width="1015" height="751" alt="Image" src="https://github.com/user-attachments/assets/25742e29-29a9-4d41-b2ca-7c1ed0423c57" />
+<img width="1003" height="750" alt="Image" src="https://github.com/user-attachments/assets/154234f5-63ce-4f46-8235-ec72b7e6edf7" />
